@@ -1,7 +1,7 @@
 # Cálculo numérico EE
 
 
-<img src="https://images.app.goo.gl/rLFi7pFFA1VxuqDy5" width="120" align="right"> </a>
+<img src="https://livrodepinturas.wordpress.com/wp-content/uploads/2023/02/stanczyk-jan-matejko.webp"> </a>
 
 ```bash
 "É... Existem dois tipos de reis, certo?
